@@ -93,6 +93,22 @@ body{
     font-weight: 800;
     line-height: 37px;
 }
+.my{
+    margin-top: 225.5px;
+    text-align: center;
+    color: rgb(13, 19, 33);
+    font-size: 32px;
+    font-weight: 800;
+    line-height: 37px;
+}
+.tar{
+    margin-top: 181px;
+    text-align: center;
+    color: rgb(13, 19, 33);
+    font-size: 32px;
+    font-weight: 800;
+    line-height: 37px; 
+}
 .cod{
     margin-top: 106.5px;
     margin-left: 203px;
@@ -112,6 +128,12 @@ body{
     font-weight: 700;
     line-height: 36px;
     margin-right: 757px;
+}
+.will-1{
+    color: rgba(13, 19, 33, 0.7);
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 36px;
 }
 .dec{
     margin-top: 16px;
@@ -145,4 +167,67 @@ body{
     width: 259.56px;
     height: 217.01px;
     margin-left: 293px;
+}
+.video{
+    margin-top: 80px;
+    margin-left: 500px;
+}
+/* skill */
+.skill{
+    display: flex;
+    gap: 24px;
+    margin-top: 88px;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+.html{
+    padding: 40px;
+    border-radius: 16px;
+    background: rgba(255, 76, 30, 0.05);
+}
+.css{
+    padding: 40px;
+    border-radius: 16px;
+    background: rgba(0, 76, 232, 0.05);
+}
+.java{
+    padding: 40px;
+    border-radius: 16px;
+    background: rgba(255, 223, 0, 0.05);
+}
+.dig{
+    color: rgb(13, 19, 33);
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19px;
+}
+.sos{
+    color: rgb(13, 19, 33);
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    opacity: 0.7;
+}
+/* i need support */
+.hp{
+    background: url(../img/handshake.jpg);
+    width: 1140px;
+    height: 314px;
+    border-radius: 16px;
+    padding: 64px 48px 64px 48px;
+    margin-top: 81px;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-bottom: 179px;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;  
+    position: absolute;  
+}
+.need{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 36px;
 }
